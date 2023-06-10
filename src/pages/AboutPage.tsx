@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 const AboutPageDiv = styled.div`
-    color: #FFF;
+    color: rgb(255, 255, 255);
 `;
 
 export function AboutPage() {
